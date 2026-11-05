@@ -148,7 +148,7 @@ Les effets varient selon la concurrence sur vos requêtes, l'état de votre site
 
 Google Search Central, page « Avez-vous besoin d'un référenceur ? »
 
-Il choisit des sites cohérents avec votre activité et alterne les ancres. Il répartit les publications dans le temps, suit vos positions et vous en rend compte.
+Votre chargé de projets choisit des sites cohérents avec votre activité et alterne les ancres. Il répartit les publications dans le temps, suit vos positions et vous en rend compte.
 
 ---
 
