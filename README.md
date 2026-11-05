@@ -1,6 +1,6 @@
 <p><a href="https://www.linkuma.com/"><img src="assets/linkuma-logo-officiel.png" alt="Logo officiel Linkuma" width="190"></a></p>
 
-# Linkuma avis : comprendre l'offre avant votre premier lien
+# Linkuma Avis : backlinks, tarifs et accompagnement SEO
 
 Linkuma est une plateforme française d'achat de backlinks pour travailler votre référencement naturel (SEO). Son activité se limite au netlinking. Vous trouverez ici les avis à consulter, le fonctionnement du service et les différences entre commande autonome et campagne déléguée. Vous pouvez aussi préparer un premier achat limité à un lien. La page est préparée pour Linkuma à partir de sources publiques consultées le 2 novembre 2026. Elle ne constitue pas un test indépendant.
 
